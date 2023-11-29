@@ -44,7 +44,8 @@ def gcd():
 
 ## Output:
 ![gcd of two number](gcd.png)
-  
+![gcdofnumbers png](https://github.com/pradeeprajeswari/GCD-of-two-numbers/assets/145743112/13903193-8da5-415e-b09e-aada88c8d502)
+
 
 
 
